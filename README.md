@@ -20,8 +20,10 @@ For Western European
 |[Symbols Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Symbols/symbols_core.csv)| 30 |
 | **TOTAL** | **226** |
 
+**OpenType features:** lnum, locl, frac, tnum, sups
+
 ### BF Latin Extended
-For Western European
+For Western European + Central European + Vietnamese
 | Glyph Set | Nb Glyphs |
 |-----------|-----------|
 |[Latin Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Latin/latin_core.csv)| 115 |
@@ -44,5 +46,4 @@ For Western European
 |[Math Extended](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Maths/math_extended.csv)| 16 |
 |[Symbols Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Symbols/symbols_core.csv)| 30 |
 |[Symbols Extended](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Symbols/symbols_extended.csv)| 10 |
-
 | **TOTAL** | **597** |
