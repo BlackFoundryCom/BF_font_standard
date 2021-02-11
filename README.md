@@ -1,4 +1,4 @@
-# BF_font_standard
+# Black Foundry Font Standard
 
 Latin
 ---------------------------
