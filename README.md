@@ -13,4 +13,5 @@ For Western European
 |[Currencies Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Currencies/currencies_core.csv)| 5 |
 |[Figures PLF](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Figures/figures_plf.csv)| 10 |
 |[Figures TLF](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Figures/figures_tlf.csv)| 10 |
-| **TOTAL** | **168** |
+|[Math Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Maths/math_core.csv)| 9 |
+| **TOTAL** | **177** |
