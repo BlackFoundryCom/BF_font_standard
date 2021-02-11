@@ -60,3 +60,14 @@ For common Korean
 |[Jamo](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Korean/korean_jamo.csv)| 95 |
 |[Hangul Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Korean/korean_hangul_core.csv)| 2350 |
 | **TOTAL** | **2445** |
+
+Japanese
+---------------------------
+
+### BF Japanese Kana
+For common Japanese base, no Kanji
+| Glyph Set | Nb Glyphs |
+|-----------|-----------|
+|[Kana](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Japanese/japanese_must.csv)| 185 |
+|[Punctuation](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Japanese/japanese_need.csv)| 20 |
+| **TOTAL** | **205** |
