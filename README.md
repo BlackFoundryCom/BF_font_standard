@@ -19,6 +19,7 @@ For Western European
 |[Math Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Maths/math_core.csv)| 9 |
 |[Symbols Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Symbols/symbols_core.csv)| 30 |
 | **TOTAL** | **226** |
+**OpenType features:** lnum, locl, frac, tnum, sups
 
 ### BF Latin Extended
 For Western European + Central European + Vietnamese
