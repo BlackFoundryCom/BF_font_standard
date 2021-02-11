@@ -1,11 +1,11 @@
-unicode,character,name,description
-,,zero.posf,
-,,one.posf,
-,,two.posf,
-,,three.posf,
-,,four.posf,
-,,five.posf,
-,,six.posf,
-,,seven.posf,
-,,eight.posf,
-,,nine.posff,
+unicode dec,unicode hex,character,name
+,,,zero.posf
+,,,one.posf
+,,,two.posf
+,,,three.posf
+,,,four.posf
+,,,five.posf
+,,,six.posf
+,,,seven.posf
+,,,eight.posf
+,,,nine.posf

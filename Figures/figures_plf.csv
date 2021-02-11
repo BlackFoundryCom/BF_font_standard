@@ -1,11 +1,11 @@
-unicode,character,name,description
-48,0,zero,
-49,1,one,
-50,2,two,
-51,3,three,
-52,4,four,
-53,5,five,
-54,6,six,
-55,7,seven,
-56,8,eight,
-57,9,nine,
+unicode dec,unicode hex,character,name
+48,0030,0,zero
+49,0031,1,one
+50,0032,2,two
+51,0033,3,three
+52,0034,4,four
+53,0035,5,five
+54,0036,6,six
+55,0037,7,seven
+56,0038,8,eight
+57,0039,9,nine
