@@ -1,0 +1,15 @@
+unicode dec,unicode hex,character,name
+96,0060,`,grave
+168,00A8,¨,dieresis
+175,00AF,¯,macron
+180,00B4,´,acute
+183,00B7,·,periodcentered
+184,00B8,¸,cedilla
+710,02C6,ˆ,circumflex
+711,02C7,ˇ,caron
+728,02D8,˘,breve
+729,02D9,˙,dotaccent
+730,02DA,˚,ring
+731,02DB,˛,ogonek
+732,02DC,˜,tilde
+733,02DD,˝,hungarumlaut
