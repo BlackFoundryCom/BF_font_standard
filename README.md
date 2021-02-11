@@ -47,3 +47,5 @@ For Western European + Central European + Vietnamese
 |[Symbols Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Symbols/symbols_core.csv)| 30 |
 |[Symbols Extended](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Symbols/symbols_extended.csv)| 10 |
 | **TOTAL** | **597** |
+
+**OpenType features:** case, lnum, ordn, locl, frac, pnum, tnum, onum, subs, sinf, sups, dnom, numr, ss01 - Arrows
