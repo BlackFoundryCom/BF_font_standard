@@ -1,0 +1,10 @@
+unicode dec,unicode hex,character,name
+35,0023,#,numbersign
+37,0025,%,percent
+38,0026,&,ampersand
+42,002A,*,asterisk
+64,0040,@,at
+169,00A9,©,copyright
+170,00AA,ª,ordfeminine
+174,00AE,®,registered
+182,00B6,¶,paragraph
