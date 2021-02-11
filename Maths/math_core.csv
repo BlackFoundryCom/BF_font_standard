@@ -1,0 +1,10 @@
+unicode dec,unicode hex,character,name
+43,002B,+,plus
+60,003C,<,less
+61,003D,=,equal
+62,003E,>,greater
+94,005E,^,asciicircum
+172,00AC,¬,logicalnot
+177,00B1,±,plusminus
+247,00F7,÷,divide
+8722,2212,−,minus
