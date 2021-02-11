@@ -8,3 +8,14 @@ unicode dec,unicode hex,character,name
 170,00AA,ª,ordfeminine
 174,00AE,®,registered
 182,00B6,¶,paragraph
+167,00A7,§,section
+176,00B0,°,degree
+186,00BA,º,ordmasculine
+8224,2020,†,dagger
+8225,2021,‡,daggerdbl
+8226,2022,•,bullet
+8240,2030,‰,perthousand
+8467,2113,ℓ,uni2113
+8470,2116,№,uni2116
+8482,2122,™,trademark
+8494,212E,℮,estimated
