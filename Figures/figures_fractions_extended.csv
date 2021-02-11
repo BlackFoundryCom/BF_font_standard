@@ -1,5 +1,6 @@
 unicode dec,unicode hex,character,name
 8725,2215,∕,uni2215
+8531,2153,⅓,onethird
 8533,2155,⅕,onefifth
 8537,2159,⅙,onesixth
 8528,2150,⅐,oneseventh
@@ -9,7 +10,6 @@ unicode dec,unicode hex,character,name
 8534,2156,⅖,twofifths
 ,,,twosevenths
 ,,,twoninths
-190,00BE,¾,threequarters
 8535,2157,⅗,threefifths
 ,,,threesevenths
 8540,215C,⅜,threeeighths
