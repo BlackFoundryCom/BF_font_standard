@@ -6,7 +6,8 @@ Latin
 ### BF Latin Basic
 For Western European
 
-[Latin Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Latin/latin_core.csv), 
+[Latin Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Latin/latin_core.csv),
+[Spaces](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Space/space_core.csv),
 [Punctuation Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Punctuations/punctuation_core.csv), 
 [Currencies Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Currencies/currencies_core.csv),
 [Figures PLF](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Figures/figures_plf.csv), 
