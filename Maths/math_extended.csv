@@ -1,10 +1,9 @@
 unicode dec,unicode hex,character,name
 126,007E,~,asciitilde
 215,00D7,×,multiply
-916,0394,Δ,Delta
-937,03A9,Ω,Omega
-956,03BC,μ,mu
-960,03C0,π,pi
+8710,2206,∆,increment
+8486,2126,Ω,ohm
+181,00B5,µ,micro
 8706,2202,∂,partialdiff
 8719,220F,∏,product
 8721,2211,∑,summation
