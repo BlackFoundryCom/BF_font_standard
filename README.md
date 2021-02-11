@@ -49,3 +49,14 @@ For Western European + Central European + Vietnamese
 | **TOTAL** | **597** |
 
 **OpenType features:** case, lnum, ordn, locl, frac, pnum, tnum, onum, subs, sinf, sups, dnom, numr, ss01 - Arrows
+
+Korean
+---------------------------
+
+### BF Korean Hangul
+For common Korean
+| Glyph Set | Nb Glyphs |
+|-----------|-----------|
+|[Jamo](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Korean/korean_jamo.csv)| 95 |
+|[Hangul Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Korean/korean_hangul_core.csv)| 2350 |
+| **TOTAL** | **2445** |
