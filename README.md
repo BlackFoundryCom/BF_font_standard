@@ -7,7 +7,8 @@ Latin
 For Western European
 | Glyph Set | Nb Glyphs |
 |-----------|-----------|
-|[Latin Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Latin/latin_core.csv)| 115 |
+|[Latin Base](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Latin/latin_base.csv)| 52 |
+|[Latin Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Latin/latin_core.csv)| 63 |
 |[Accents Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Accents/accent_core.csv)| 14 |
 |[Spaces Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Space/space_core.csv)| 3 |
 |[Punctuation Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Punctuations/punctuation_core.csv)| 23 |
@@ -26,7 +27,8 @@ For Western European
 For Western European + Central European + Vietnamese
 | Glyph Set | Nb Glyphs |
 |-----------|-----------|
-|[Latin Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Latin/latin_core.csv)| 115 |
+|[Latin Base](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Latin/latin_base.csv)| 52 |
+|[Latin Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Latin/latin_core.csv)| 63 |
 |[Latin Extended](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Latin/latin_extended.csv)| 232 |
 |[Accents Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Accents/accent_core.csv)| 14 |
 |[Accents Extended](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Accents/accent_extended.csv)| 13 |
@@ -49,6 +51,29 @@ For Western European + Central European + Vietnamese
 | **TOTAL** | **597** |
 
 **OpenType features:** case, lnum, ordn, locl, frac, pnum, tnum, onum, subs, sinf, sups, dnom, numr, ss01 - Arrows
+
+Cyrillic
+---------------------------
+
+### BF Cyrillic Basic
+
+For Western European + Central European + Vietnamese
+| Glyph Set | Nb Glyphs |
+|-----------|-----------|
+|[Latin Base](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Latin/latin_base.csv)| 115 |
+|[Cyrillic Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Cyrillic/cyrillic_core.csv)| 106 |
+|[Spaces Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Space/space_core.csv)| 3 |
+|[Punctuation Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Punctuations/punctuation_core.csv)| 23 |
+|[Currencies Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Currencies/currencies_core.csv)| 5 |
+|[Figures PLF](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Figures/figures_plf.csv)| 10 |
+|[Figures TLF](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Figures/figures_tlf.csv)| 10 |
+|[Figures SUP](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Figures/figures_sup.csv)| 3 |
+|[Fractions Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Figures/figures_fractions_core.csv)| 4 |
+|[Math Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Maths/math_core.csv)| 9 |
+|[Symbols Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Symbols/symbols_core.csv)| 30 |
+| **TOTAL** | **318** |
+
+**OpenType features:** 
 
 Korean
 ---------------------------
