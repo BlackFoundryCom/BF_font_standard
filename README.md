@@ -57,10 +57,10 @@ Cyrillic
 
 ### BF Cyrillic Basic
 
-For Western European + Central European + Vietnamese
+For Russian
 | Glyph Set | Nb Glyphs |
 |-----------|-----------|
-|[Latin Base](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Latin/latin_base.csv)| 115 |
+|[Latin Base](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Latin/latin_base.csv)| 52 |
 |[Cyrillic Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Cyrillic/cyrillic_core.csv)| 106 |
 |[Spaces Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Space/space_core.csv)| 3 |
 |[Punctuation Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Punctuations/punctuation_core.csv)| 23 |
@@ -71,7 +71,48 @@ For Western European + Central European + Vietnamese
 |[Fractions Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Figures/figures_fractions_core.csv)| 4 |
 |[Math Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Maths/math_core.csv)| 9 |
 |[Symbols Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Symbols/symbols_core.csv)| 30 |
-| **TOTAL** | **318** |
+| **TOTAL** | **255** |
+
+### BF Cyrillic Extended
+
+For Russian + Serbian + Bulgarian
+| Glyph Set | Nb Glyphs |
+|-----------|-----------|
+|[Latin Base](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Latin/latin_base.csv)| 52 |
+|[Cyrillic Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Cyrillic/cyrillic_core.csv)| 106 |
+|[Cyrillic Bulgarian](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Cyrillic/cyrillic_bulgarian.csv)| 23 |
+|[Cyrillic Serbian](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Cyrillic/cyrillic_serbian.csv)| 1 |
+|[Spaces Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Space/space_core.csv)| 3 |
+|[Punctuation Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Punctuations/punctuation_core.csv)| 23 |
+|[Currencies Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Currencies/currencies_core.csv)| 5 |
+|[Figures PLF](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Figures/figures_plf.csv)| 10 |
+|[Figures TLF](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Figures/figures_tlf.csv)| 10 |
+|[Figures SUP](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Figures/figures_sup.csv)| 3 |
+|[Fractions Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Figures/figures_fractions_core.csv)| 4 |
+|[Math Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Maths/math_core.csv)| 9 |
+|[Symbols Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Symbols/symbols_core.csv)| 30 |
+| **TOTAL** | **279** |
+
+### BF Cyrillic Unicode
+
+For Russian + Serbian + Bulgarian + Historic
+| Glyph Set | Nb Glyphs |
+|-----------|-----------|
+|[Latin Base](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Latin/latin_base.csv)| 52 |
+|[Cyrillic Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Cyrillic/cyrillic_core.csv)| 106 |
+|[Cyrillic Bulgarian](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Cyrillic/cyrillic_bulgarian.csv)| 23 |
+|[Cyrillic Serbian](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Cyrillic/cyrillic_serbian.csv)| 1 |
+|[Cyrillic Extra](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Cyrillic/cyrillic_extra.csv)| 164 |
+|[Spaces Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Space/space_core.csv)| 3 |
+|[Punctuation Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Punctuations/punctuation_core.csv)| 23 |
+|[Currencies Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Currencies/currencies_core.csv)| 5 |
+|[Figures PLF](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Figures/figures_plf.csv)| 10 |
+|[Figures TLF](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Figures/figures_tlf.csv)| 10 |
+|[Figures SUP](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Figures/figures_sup.csv)| 3 |
+|[Fractions Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Figures/figures_fractions_core.csv)| 4 |
+|[Math Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Maths/math_core.csv)| 9 |
+|[Symbols Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Symbols/symbols_core.csv)| 30 |
+| **TOTAL** | **443** |
 
 **OpenType features:** 
 
