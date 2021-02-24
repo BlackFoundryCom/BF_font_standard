@@ -147,3 +147,18 @@ For common Hebrew
 |-----------|-----------|
 |[Hebrew Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Hebrew/hebrew_core.csv)| 80 |
 | **TOTAL** | **80** |
+
+Arabic
+---------------------------
+
+### BF Arabic
+For common Arabic
+| Glyph Set | Nb Glyphs |
+|-----------|-----------|
+|[Arabic Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Arabic/arabic_core.csv)| 230 |
+|[Arabic Urdu](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Arabic/arabic_urdu.csv)| 9 |
+|[Arabic Accents](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Arabic/arabic_accents.csv)| 38 |
+|[Arabic Figures](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Arabic/arabic_figures.csv)| 20 |
+|[Arabic Misc](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Arabic/arabic_misc.csv)| 4 |
+|[Arabic Punctuation](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Arabic/arabic_punctuations.csv)| 8 |
+| **TOTAL** | **309** |
