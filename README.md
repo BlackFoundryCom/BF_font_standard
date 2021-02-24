@@ -145,5 +145,5 @@ Hebrew
 For common Hebrew
 | Glyph Set | Nb Glyphs |
 |-----------|-----------|
-|[Hebrew](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Hebrew/hebrew_core.csv)| 80 |
+|[Hebrew Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Hebrew/hebrew_core.csv)| 80 |
 | **TOTAL** | **80** |
