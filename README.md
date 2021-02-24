@@ -137,3 +137,13 @@ For common Japanese base, no Kanji
 |[Kana](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Japanese/japanese_must.csv)| 185 |
 |[Punctuation](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Japanese/japanese_need.csv)| 20 |
 | **TOTAL** | **205** |
+
+Hebrew
+---------------------------
+
+### BF Hebrew
+For common Hebrew
+| Glyph Set | Nb Glyphs |
+|-----------|-----------|
+|[Hebrew](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Hebrew/hebrew_core.csv)| 80 |
+| **TOTAL** | **80** |
