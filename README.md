@@ -172,5 +172,5 @@ For common Greek
 |-----------|-----------|
 |[Greek Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Greek/greek_core.csv)| 70 |
 |[Greek Accents](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Greek/greek_accents.csv)| 2 |
-|[Greek Punctuations]https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Greek/greek_punctuations.csv)| 2 |
+|[Greek Punctuations](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Greek/greek_punctuations.csv)| 2 |
 | **TOTAL** | **74** |
