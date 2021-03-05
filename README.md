@@ -162,3 +162,15 @@ For common Arabic
 |[Arabic Misc](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Arabic/arabic_misc.csv)| 4 |
 |[Arabic Punctuation](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Arabic/arabic_punctuations.csv)| 8 |
 | **TOTAL** | **309** |
+
+Greek
+---------------------------
+
+### BF Greek
+For common Greek
+| Glyph Set | Nb Glyphs |
+|-----------|-----------|
+|[Greek Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Greek/greek_core.csv)| 70 |
+|[Greek Accents](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Greek/greek_accents.csv)| 2 |
+|[Greek Punctuations]https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Greek/greek_punctuations.csv)| 2 |
+| **TOTAL** | **74** |
