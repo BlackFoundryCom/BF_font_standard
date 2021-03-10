@@ -128,7 +128,7 @@ For common Korean
 | **TOTAL** | **2445** |
 
 ### BF Korean Hangul Unicode
-For common Korean
+For Full unicode Korean
 | Glyph Set | Nb Glyphs |
 |-----------|-----------|
 |[Jamo](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Korean/korean_jamo.csv)| 95 |
