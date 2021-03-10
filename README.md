@@ -189,6 +189,7 @@ For common Chinese base
 |-----------|-----------|
 |[Hanzi_core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Chinese/hanzi_core.csv)| 6768 |
 |[Hanzi_unicode](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Chinese/hanzi_unicode.csv)| 20810 |
+|[Chinese_punctuation](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Chinese/chinese_punctuations.csv)| 345 |
 | **TOTAL** | **27578** |
 
 Japanese
