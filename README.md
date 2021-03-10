@@ -116,36 +116,17 @@ For Russian + Serbian + Bulgarian + Historic
 
 **OpenType features:** 
 
-Korean
+Greek
 ---------------------------
 
-### BF Korean Hangul Basic
-For common Korean
+### BF Greek
+For common Greek
 | Glyph Set | Nb Glyphs |
 |-----------|-----------|
-|[Jamo](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Korean/korean_jamo.csv)| 95 |
-|[Hangul Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Korean/korean_hangul_core.csv)| 2350 |
-| **TOTAL** | **2445** |
-
-### BF Korean Hangul Unicode
-For Full unicode Korean
-| Glyph Set | Nb Glyphs |
-|-----------|-----------|
-|[Jamo](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Korean/korean_jamo.csv)| 95 |
-|[Hangul Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Korean/korean_hangul_core.csv)| 2350 |
-|[Hangul Extended](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Korean/korean_hangul_extended.csv)| 8822 |
-| **TOTAL** | **11267** |
-
-Japanese
----------------------------
-
-### BF Japanese Kana
-For common Japanese base, no Kanji
-| Glyph Set | Nb Glyphs |
-|-----------|-----------|
-|[Kana](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Japanese/japanese_must.csv)| 185 |
-|[Punctuation](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Japanese/japanese_need.csv)| 20 |
-| **TOTAL** | **205** |
+|[Greek Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Greek/greek_core.csv)| 70 |
+|[Greek Accents](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Greek/greek_accents.csv)| 2 |
+|[Greek Punctuations](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Greek/greek_punctuations.csv)| 2 |
+| **TOTAL** | **74** |
 
 Hebrew
 ---------------------------
@@ -171,18 +152,6 @@ For common Arabic
 |[Arabic Misc](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Arabic/arabic_misc.csv)| 4 |
 |[Arabic Punctuation](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Arabic/arabic_punctuations.csv)| 8 |
 | **TOTAL** | **309** |
-
-Greek
----------------------------
-
-### BF Greek
-For common Greek
-| Glyph Set | Nb Glyphs |
-|-----------|-----------|
-|[Greek Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Greek/greek_core.csv)| 70 |
-|[Greek Accents](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Greek/greek_accents.csv)| 2 |
-|[Greek Punctuations](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Greek/greek_punctuations.csv)| 2 |
-| **TOTAL** | **74** |
 
 Thai
 ---------------------------
@@ -210,3 +179,34 @@ For common Devanagari
 |[Devanagari Figures](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Devanagari/deva_figures.csv)| 10 |
 |[Devanagari Punctuation](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Devanagari/deva_punctuation.csv)| 2 |
 | **TOTAL** | **794** |
+
+Japanese
+---------------------------
+
+### BF Japanese Kana
+For common Japanese base, no Kanji
+| Glyph Set | Nb Glyphs |
+|-----------|-----------|
+|[Kana](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Japanese/japanese_must.csv)| 185 |
+|[Punctuation](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Japanese/japanese_need.csv)| 20 |
+| **TOTAL** | **205** |
+
+Korean
+---------------------------
+
+### BF Korean Hangul Basic
+For common Korean
+| Glyph Set | Nb Glyphs |
+|-----------|-----------|
+|[Jamo](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Korean/korean_jamo.csv)| 95 |
+|[Hangul Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Korean/korean_hangul_core.csv)| 2350 |
+| **TOTAL** | **2445** |
+
+### BF Korean Hangul Unicode
+For Full unicode Korean
+| Glyph Set | Nb Glyphs |
+|-----------|-----------|
+|[Jamo](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Korean/korean_jamo.csv)| 95 |
+|[Hangul Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Korean/korean_hangul_core.csv)| 2350 |
+|[Hangul Extended](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Korean/korean_hangul_extended.csv)| 8822 |
+| **TOTAL** | **11267** |
