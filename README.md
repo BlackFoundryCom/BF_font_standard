@@ -180,6 +180,17 @@ For common Devanagari
 |[Devanagari Punctuation](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Devanagari/deva_punctuation.csv)| 2 |
 | **TOTAL** | **794** |
 
+Chinese
+---------------------------
+
+### BF Chinese
+For common Chinese base
+| Glyph Set | Nb Glyphs |
+|-----------|-----------|
+|[Hanzi_core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Chinese/hanzi_core.csv)| 6768 |
+|[Hanzi_unicode](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Chinese/hanzi_unicode.csv)| 20810 |
+| **TOTAL** | **27578** |
+
 Japanese
 ---------------------------
 
