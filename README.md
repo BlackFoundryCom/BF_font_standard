@@ -193,7 +193,20 @@ For common Thai
 |-----------|-----------|
 |[Thai Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Thai/thai_core.csv)| 65 |
 |[Thai Accents](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Thai/thai_accents.csv)| 45 |
-|[Thai Symboles](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Thai/thai_symbols.csv)| 3 |
+|[Thai Symbols](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Thai/thai_symbols.csv)| 3 |
 |[Thai Currency](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Thai/thai_currency.csv)| 1 |
 |[Thai Figures](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Thai/thai_figures.csv)| 10 |
 | **TOTAL** | **124** |
+
+Devanagari
+---------------------------
+
+### BF Devanagari
+For common Devanagari
+| Glyph Set | Nb Glyphs |
+|-----------|-----------|
+|[Devanagari Core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Devanagari/deva_core.csv)| 777 |
+|[Devanagari Accents](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Devanagari/deva_accents.csv)| 5 |
+|[Devanagari Figures](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Devanagari/deva_figures.csv)| 10 |
+|[Devanagari Punctuation](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Devanagari/deva_punctuation.csv)| 2 |
+| **TOTAL** | **794** |
