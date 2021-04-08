@@ -127,6 +127,7 @@ unicode dec,unicode hex,character,name
 380,017C,ż,zdotaccent
 381,017D,Ž,Zcaron
 382,017E,ž,zcaron
+399,018F,Ə,uni018F
 401,0191,Ƒ,uni0191
 402,0192,ƒ,uni0192
 416,01A0,Ơ,Ohorn
@@ -138,6 +139,7 @@ unicode dec,unicode hex,character,name
 538,021A,Ț,uni021A
 539,021B,ț,uni021B
 567,0237,ȷ,dotlessj
+601,0259,ə,uni0259
 7808,1E80,Ẁ,Wgrave
 7809,1E81,ẁ,wgrave
 7810,1E82,Ẃ,Wacute
