@@ -219,7 +219,7 @@ For comprehensive japanese typesetting
 |[Kana Extra](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Japanese/japanese_extra.csv)| 68 |
 |[Kanji](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Japanese/japanese_kanji.csv)| 6356 |
 |[Punctuation](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Japanese/japanese_need.csv)| 20 |
-| **TOTAL** | **205** |
+| **TOTAL** | **6629** |
 
 Korean
 ---------------------------
