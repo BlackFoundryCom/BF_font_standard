@@ -183,8 +183,16 @@ For common Devanagari
 Chinese
 ---------------------------
 
-### BF Chinese
-For common Chinese base
+### BF Chinese GB2312
+For common China mainland
+| Glyph Set | Nb Glyphs |
+|-----------|-----------|
+|[Hanzi_core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Chinese/hanzi_core.csv)| 6768 |
+|[Chinese_punctuation](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Chinese/chinese_punctuations.csv)| 345 |
+| **TOTAL** | **7113** |
+
+### BF Chinese GB18030
+For traditionnal China mainland
 | Glyph Set | Nb Glyphs |
 |-----------|-----------|
 |[Hanzi_core](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Chinese/hanzi_core.csv)| 6768 |
