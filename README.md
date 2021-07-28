@@ -216,10 +216,11 @@ For comprehensive japanese typesetting
 | Glyph Set | Nb Glyphs |
 |-----------|-----------|
 |[Kana](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Japanese/japanese_must.csv)| 185 |
-|[Kana Extra](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Japanese/japanese_extra.csv)| 68 |
+|[Kana Extra](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Japanese/japanese_extra.csv)| 124 |
 |[Kanji](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Japanese/japanese_kanji.csv)| 6356 |
 |[Punctuation](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Japanese/japanese_need.csv)| 20 |
-| **TOTAL** | **6629** |
+|[Vertical Punctuation](https://github.com/BlackFoundryCom/BF_font_standard/blob/main/Japanese/japanese_vertical.csv)| 73 |
+| **TOTAL** | **6758** |
 
 Korean
 ---------------------------
